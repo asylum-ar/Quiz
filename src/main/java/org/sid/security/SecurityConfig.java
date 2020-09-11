@@ -65,7 +65,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 		web.ignoring().antMatchers(HttpMethod.OPTIONS, "/**");
 		web.ignoring().antMatchers("/index.html/**", "/static/**", "/MaterialIcons**", "/assets/**",
 				 "/assets/images/**",
-				"/*js/**", "/*css/**", "/*scss/**", "/resources/**", "/component/**"); // #3
+				"/*js/**", "/*css/**", "/*scss/**", "/resources/**", "/component/**","/**); // #3
 	}
 	@Bean
 	BCryptPasswordEncoder getBC() {
