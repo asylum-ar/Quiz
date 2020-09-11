@@ -3232,7 +3232,7 @@ __webpack_require__.r(__webpack_exports__);
 var environment = {
     production: true,
     //apiUrl: 'http://localhost:8090/'
-    apiUrl: 'https://qutz-rma.herokuapp.com'
+    apiUrl: 'https://spring-qcm123.herokuapp.com/'
 };
 /*
  * For easier debugging in development mode, you can import the following file
