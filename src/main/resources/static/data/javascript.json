@@ -1,0 +1,2610 @@
+{
+  "id": 1,
+  "name": "JavaScript Quiz",
+  "description": "JavaScript Quiz (Basic Multiple Choice Questions for JavaScript Developers)",
+  "questions": [
+    {
+      "id": 1001,
+      "name": "Question 1",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "id": 1,
+          "questionId": 1010,
+          "echelle":"g",
+          "name": "Je suis très travailleur",
+          "isAnswer": 0
+        },
+        {
+          "position":"o",
+          "id": 2,
+          "echelle":"e",
+          "questionId": 1010,
+          "name": "Je ne suis pas d'humeur changeante",
+          "isAnswer": 1
+        }
+
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1002,
+      "name": "Question 2",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "id": 3,
+          "questionId": 1010,
+          "echelle":"a",
+          "name": "J'aime que mon travail soit meilleur que celui des autres",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "id": 4,
+          "questionId": 1010,
+          "echelle":"n",
+          "name": "Quand j'entreprends un travail, j'aime le finir",
+          "isAnswer": false
+        }
+
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1003,
+      "name": "Question 3",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"p",
+          "id": 5,
+          "questionId": 1010,
+          "name": "J'aime montrer au gens comment faire le travail",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"a",
+          "id": 6,
+          "questionId": 1010,
+          "name": "Je cherche à atteindre mes objectifs",
+          "isAnswer": false
+        }
+
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1004,
+      "name": "Question 4",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"x",
+          "id": 7,
+          "questionId": 1010,
+          "name": "J'aime faire des choses originales",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"p",
+          "id": 8,
+          "questionId": 1010,
+          "name": "J'aime indiquer aux gens ce qu'ils ont à faire",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1005,
+      "name": "Question 5",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"b",
+          "id": 9,
+          "questionId": 1010,
+          "name": "J'aime me joindre à des groupes",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"x",
+          "id": 10,
+          "questionId": 1010,
+          "name": "J'aime que les groupes me remarquent",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1006,
+      "name": "Question 6",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"o",
+          "id": 11,
+          "questionId": 1010,
+          "name": "J'aime me lier d'amitié avec une seule personne",
+          "isAnswer": false
+        },
+        {
+          "position":"o",
+          "echelle":"b",
+          "id": 12,
+          "questionId": 1010,
+          "name": "J'aime être apprécié par le groupe",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1007,
+      "name": "Question 7",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"z",
+          "id": 13,
+          "questionId": 1010,
+          "name": "Je change rapidement quand c'est nécessaire",
+          "isAnswer": false
+        },
+        {
+          "position":"o",
+          "echelle":"o",
+          "id": 14,
+          "questionId": 1010,
+          "name": "J'essaye de me faire des amis intimes",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1008,
+      "name": "Question 8",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"k",
+          "id": 15,
+          "questionId": 1010,
+          "name": "J'aime prendre ma revanche quand on me nuit",
+          "isAnswer": false
+        },
+        {
+          "position":"o",
+          "echelle":"z",
+          "id": 16,
+          "questionId": 1010,
+          "name": "J'aime entreprendre des choses nouvelles et variées",
+          "isAnswer": true
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1009,
+      "name": "Question 9",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"f",
+          "id": 17,
+          "questionId": 1010,
+          "name": "Je veux que mon patron m'estime",
+          "isAnswer": false
+        },
+        {
+          "position":"o",
+          "echelle":"k",
+          "id": 18,
+          "questionId": 1010,
+          "name": "Quand les gens font erreur, j'aime le leur faire remarquer",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+    },
+    {
+      "id": 1010,
+      "name": "Question 10",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"w",
+          "id": 19,
+          "questionId": 1010,
+          "name": "J'aime suivre les instructions qu'on me donne",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"f",
+          "id": 20,
+          "questionId": 1010,
+          "name": "J'aime être apprécié par mon supérieur",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },{
+      "id": 1011,
+      "name": "Question 11",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"g",
+          "id": 21,
+          "questionId": 1010,
+          "name": "Je fais de mon mieux",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"c",
+          "id": 22,
+          "questionId": 1010,
+          "name": "Je mets chaque chose à sa place",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1012,
+      "name": "Question 12",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"l",
+          "id": 23,
+          "questionId": 1010,
+          "name": "J'obtiens des gens qu'ils fassent ce que je veux",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"e",
+          "id": 24,
+          "questionId": 1010,
+          "name": "Je ne m'émeus pas facilement",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1013,
+      "name": "Question 13",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"p",
+          "id": 25,
+          "questionId": 1010,
+          "name": "J'aime dire au groupe ce qu'il doit faire",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"n",
+          "id": 26,
+          "questionId": 1010,
+          "name": "Je finis toujours un travail que j'entreprends",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1014,
+      "name": "Question 14",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"x",
+          "id": 27,
+          "questionId": 1010,
+          "name": "Je veux attirer les autres",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"a",
+          "id": 28,
+          "questionId": 1010,
+          "name": "Je veux réussir",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1015,
+      "name": "Question 15",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"b",
+          "id": 29,
+          "questionId": 1010,
+          "name": "J'aime m'intégrer à des groupes",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"p",
+          "id": 30,
+          "questionId": 1010,
+          "name": "J'aime aider les gens à se décider",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1016,
+      "name": "Question 16",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"o",
+          "id": 31,
+          "questionId": 1010,
+          "name": "Je suis ennuyé quand on ne m'aime pas",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"x",
+          "id": 32,
+          "questionId": 1010,
+          "name": "J'aime que les gens me remarquent",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1017,
+      "name": "Question 17",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"z",
+          "id": 33,
+          "questionId": 1010,
+          "name": "J'aime essayer de faire des choses nouvelles",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"b",
+          "id": 34,
+          "questionId": 1010,
+          "name": "J'aime mieux travailler en groupe que tout seul",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1018,
+      "name": "Question 18",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"k",
+          "id": 35,
+          "questionId": 1010,
+          "name": "Il m'arrive de rendre les autres responsables quand les choses vont mal",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"o",
+          "id": 36,
+          "questionId": 1010,
+          "name": "Je suis ennuyé quand quelqu'un ne m'aime pas",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1019,
+      "name": "Question 19",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"f",
+          "id": 37,
+          "questionId": 1010,
+          "name": "J'aime plaire à mes supérieurs",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"z",
+          "id": 38,
+          "questionId": 1010,
+          "name": "J'aime faire des travaux variés",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1020,
+      "name": "Question 20",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"w",
+          "id": 39,
+          "questionId": 1010,
+          "name": "J'aime recevoir des instructions détaillées avant de faire un travail",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"k",
+          "id": 40,
+          "questionId": 1010,
+          "name": "Si les gens me contrarient, j'aime le leur dire",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1021,
+      "name": "Question 21",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"g",
+          "id": 41,
+          "questionId": 1010,
+          "name": "Je fais toujours de mon mieux",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"d",
+          "id": 42,
+          "questionId": 1010,
+          "name": "J'aime faire chaque étape de mon travail soigneusement",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1022,
+      "name": "Question 22",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"l",
+          "id": 43,
+          "questionId": 1010,
+          "name": "Je suis un bon leader",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"c",
+          "id": 44,
+          "questionId": 1010,
+          "name": "J'organise bien mon travail",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1023,
+      "name": "Question 23",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"i",
+          "id": 45,
+          "questionId": 1010,
+          "name": "Je m'émeus facilement",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"e",
+          "id": 46,
+          "questionId": 1010,
+          "name": "Je suis lent à me décider",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1024,
+      "name": "Question 24",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"x",
+          "id": 47,
+          "questionId": 1010,
+          "name": "J'aime faire plusieurs travaux à la fois",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"n",
+          "id": 48,
+          "questionId": 1010,
+          "name": "Quand je suis avec un groupe de gens, je préfére rester silencieux",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1025,
+      "name": "Question 25",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"b",
+          "id": 49,
+          "questionId": 1010,
+          "name": "J’aime travailler en équipe",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"a",
+          "id": 50,
+          "questionId": 1010,
+          "name": "Je désire faire mieux que les autres",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1026,
+      "name": "Question 26",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"o",
+          "id": 51,
+          "questionId": 1010,
+          "name": "J'aime me faire des amis intimes",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"p",
+          "id": 52,
+          "questionId": 1010,
+          "name": "J'aime donner des conseils aux autres",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1027,
+      "name": "Question 27",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"z",
+          "id": 53,
+          "questionId": 1010,
+          "name": "J'aime faire des choses nouvelles",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"x",
+          "id": 54,
+          "questionId": 1010,
+          "name": "J'aime parler des choses que j'ai réussies",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1028,
+      "name": "Question 28",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"k",
+          "id": 55,
+          "questionId": 1010,
+          "name": "Quand j'ai raison,j'aime défendre mes opinions",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"b",
+          "id": 56,
+          "questionId": 1010,
+          "name": "J'aime faire partie d'un groupe",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1029,
+      "name": "Question 29",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"f",
+          "id": 57,
+          "questionId": 1010,
+          "name": "Je respecte l'autorité",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"o",
+          "id": 58,
+          "questionId": 1010,
+          "name": "J'essaye d'être proche des gens",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1030,
+      "name": "Question 30",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"w",
+          "id": 59,
+          "questionId": 1010,
+          "name": "J'aime qu'on m'explique comment faire un travail",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"z",
+          "id": 60,
+          "questionId": 1010,
+          "name": "Je m'ennuie facilement",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1031,
+      "name": "Question 31",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"g",
+          "id": 61,
+          "questionId": 1010,
+          "name": "Je travaille dur",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"r",
+          "id": 62,
+          "questionId": 1010,
+          "name": "Je fais un plan avant d'agir",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1032,
+      "name": "Question 32",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"l",
+          "id": 63,
+          "questionId": 1010,
+          "name": "J'aime diriger le groupe",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"d",
+          "id": 64,
+          "questionId": 1010,
+          "name": "Je m'intéresse aux détails",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1033,
+      "name": "Question 33",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"i",
+          "id": 65,
+          "questionId": 1010,
+          "name": "Je me décide facilement",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"c",
+          "id": 66,
+          "questionId": 1010,
+          "name": "Je suis ordonné",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1034,
+      "name": "Question 34",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"t",
+          "id": 67,
+          "questionId": 1010,
+          "name": "Je travaille vite",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"e",
+          "id": 68,
+          "questionId": 1010,
+          "name": "Je suis rarement triste",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1035,
+      "name": "Question 35",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"b",
+          "id": 69,
+          "questionId": 1010,
+          "name": "Je veux faire partie d'un groupe",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"n",
+          "id": 70,
+          "questionId": 1010,
+          "name": "Je ne veux faire qu'un travail à la fois",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1036,
+      "name": "Question 36",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"o",
+          "id": 71,
+          "questionId": 1010,
+          "name": "J'essaye de me faire des amis intimes",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"a",
+          "id": 72,
+          "questionId": 1010,
+          "name": "J'essaye d'être le meilleur en tout",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1037,
+      "name": "Question 37 ",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"z",
+          "id": 73,
+          "questionId": 1010,
+          "name": "J'aime innover",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"p",
+          "id": 74,
+          "questionId": 1010,
+          "name": "J'aime être responsable des autres",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1038,
+      "name": "Question 38",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"k",
+          "id": 75,
+          "questionId": 1010,
+          "name": "J'aime défendre mon point de vue",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"x",
+          "id": 76,
+          "questionId": 1010,
+          "name": "J'aime attirer l'attention",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1039,
+      "name": "Question 39",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"f",
+          "id": 77,
+          "questionId": 1010,
+          "name": "J'aime avoir une bonne relation avec mes supérieurs ",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"b",
+          "id": 78,
+          "questionId": 1010,
+          "name": "Je désire être intégré à l'équipe",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1040,
+      "name": "Question 40",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"w",
+          "id": 79,
+          "questionId": 1010,
+          "name": "J'aime suivre les instructions soigneusement",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"o",
+          "id": 80,
+          "questionId": 1010,
+          "name": "J'aime que les gens me connaissent bien",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },        {
+      "id": 1041,
+      "name": "Question 41",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"g",
+          "id": 81,
+          "questionId": 1010,
+          "name": "Je fais de mon mieux",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"s",
+          "id": 82,
+          "questionId": 1010,
+          "name": "Je suis très aimable",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1042,
+      "name": "Question 42",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"l",
+          "id": 83,
+          "questionId": 1010,
+          "name": "Les gens estiment que je suis un bon leader",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"r",
+          "id": 84,
+          "questionId": 1010,
+          "name": "Je réfléchis mûrement avant d'entreprendre une action",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1043,
+      "name": "Question 43",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"i",
+          "id": 85,
+          "questionId": 1010,
+          "name": "Je prends souvent des risques",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"d",
+          "id": 86,
+          "questionId": 1010,
+          "name": "Je suis précis",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1044,
+      "name": "Question 44",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"t",
+          "id": 87,
+          "questionId": 1010,
+          "name": "On trouve que je travaille vite",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"c",
+          "id": 88,
+          "questionId": 1010,
+          "name": "On me trouve soigneux",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1045,
+      "name": "Question 45",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"v",
+          "id": 89,
+          "questionId": 1010,
+          "name": "J'aime les sports",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"e",
+          "id": 90,
+          "questionId": 1010,
+          "name": "Je suis rarement en colère",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1046,
+      "name": "Question 46",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"o",
+          "id": 91,
+          "questionId": 1010,
+          "name": "J'aime que les gens soient amicaux avec moi",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"n",
+          "id": 92,
+          "questionId": 1010,
+          "name": "J'essaye toujours de finir ce que je commence",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1047,
+      "name": "Question 47",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"z",
+          "id": 93,
+          "questionId": 1010,
+          "name": "J'aime me lancer dans des entreprises nouvelles",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"a",
+          "id": 94,
+          "questionId": 1010,
+          "name": "J'aime réussir un travail difficile",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1048,
+      "name": "Question 48",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"k",
+          "id": 95,
+          "questionId": 1010,
+          "name": "J'aime être traité avec justice",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"p",
+          "id": 96,
+          "questionId": 1010,
+          "name": "j'aime montrer aux autres comment faire un travail",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1049,
+      "name": "Question 49",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"f",
+          "id": 97,
+          "questionId": 1010,
+          "name": "J'aime faire ce qu'on attend de moi",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"x",
+          "id": 98,
+          "questionId": 1010,
+          "name": "J’aime attirer l’attention",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1050,
+      "name": "Question 50",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"w",
+          "id": 99,
+          "questionId": 1010,
+          "name": "J'aime recevoir des instructions détaillées avant de faire un travail",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"b",
+          "id": 100,
+          "questionId": 1010,
+          "name": "J'aime être en groupe",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1051,
+      "name": "Question 51",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"g",
+          "id": 101,
+          "questionId": 1010,
+          "name": "J'essaye toujours de faire mon travail le mieux possible",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"v",
+          "id": 102,
+          "questionId": 1010,
+          "name": "On dit de moi que je suis infatigable",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1052,
+      "name": "Question 52",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"l",
+          "id": 103,
+          "questionId": 1010,
+          "name": "Je représente le type même du leader",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"s",
+          "id": 104,
+          "questionId": 1010,
+          "name": "Je me lie d'amitié facilement",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1053,
+      "name": "Question 53",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"i",
+          "id": 105,
+          "questionId": 1010,
+          "name": "Je prends des risques",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"r",
+          "id": 106,
+          "questionId": 1010,
+          "name": "Je réflechis beaucoup",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1054,
+      "name": "Question 54",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"t",
+          "id": 107,
+          "questionId": 1010,
+          "name": "Je travaille à un rythme rapide",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"d",
+          "id": 108,
+          "questionId": 1010,
+          "name": "Je m'intéresse aux détails",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1055,
+      "name": "Question 55",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"v",
+          "id": 109,
+          "questionId": 1010,
+          "name": "J'ai beaucoup d'énergie physique",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"c",
+          "id": 110,
+          "questionId": 1010,
+          "name": "Je range mes affaires soigneusement",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1056,
+      "name": "Question 56",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"s",
+          "id": 111,
+          "questionId": 1010,
+          "name": "Je m'entends bien avec tout le monde",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"e",
+          "id": 112,
+          "questionId": 1010,
+          "name": "je suis d'humeur égale",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1057,
+      "name": "Question 57",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"z",
+          "id": 113,
+          "questionId": 1010,
+          "name": "J'aime la diversité",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"n",
+          "id": 114,
+          "questionId": 1010,
+          "name": "Je veux toujours achever le travail que j'ai commencé",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1058,
+      "name": "Question 58",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"k",
+          "id": 115,
+          "questionId": 1010,
+          "name": "J'aime généralement défendre mes opinions",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"a",
+          "id": 116,
+          "questionId": 1010,
+          "name": "Je me fixe des objectifs élevés",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1059,
+      "name": "Question 59",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"f",
+          "id": 117,
+          "questionId": 1010,
+          "name": "J'aime les suggestions des gens que j'admire",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"p",
+          "id": 118,
+          "questionId": 1010,
+          "name": "J'aime avoir la responsabilité d'autres personnes",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1060,
+      "name": "Question 60",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"w",
+          "id": 119,
+          "questionId": 1010,
+          "name": "Je me laisse influencer par les autres",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"x",
+          "id": 120,
+          "questionId": 1010,
+          "name": "J'aime être le centre d'intérêt",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1061,
+      "name": "Question 61",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"g",
+          "id": 121,
+          "questionId": 1010,
+          "name": "Ordinairement je travaille très dur",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"t",
+          "id": 122,
+          "questionId": 1010,
+          "name": "Je travaille souvent sous pression",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1062,
+      "name": "Question 62",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"l",
+          "id": 123,
+          "questionId": 1010,
+          "name": "Quand je parle, le groupe m'écoute",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"v",
+          "id": 124,
+          "questionId": 1010,
+          "name": "J'aime me dépenser physiquement",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1063,
+      "name": "Question 63",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"i",
+          "id": 125,
+          "questionId": 1010,
+          "name": "Je suis lent à me faire des amis",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"s",
+          "id": 126,
+          "questionId": 1010,
+          "name": "J'ai du mal à me décider",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1064,
+      "name": "Question 64",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"t",
+          "id": 127,
+          "questionId": 1010,
+          "name": "D'habitude, je mange vite",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"r",
+          "id": 128,
+          "questionId": 1010,
+          "name": "J'aime lire",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1065,
+      "name": "Question 65",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"v",
+          "id": 129,
+          "questionId": 1010,
+          "name": "J'aime faire un travail qui me permet de me déplacer",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"d",
+          "id": 130,
+          "questionId": 1010,
+          "name": "J'aime faire un travail qui demande du soin",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1066,
+      "name": "Question 66",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"s",
+          "id": 131,
+          "questionId": 1010,
+          "name": "Je me fais autant d'amis que possible",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"c",
+          "id": 132,
+          "questionId": 1010,
+          "name": "Je retrouve toujours ce que je range",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1067,
+      "name": "Question 67",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"r",
+          "id": 133,
+          "questionId": 1010,
+          "name": "Je fais des projets longtemps à l'avance",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"e",
+          "id": 134,
+          "questionId": 1010,
+          "name": "Je contrôle mes émotions",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1068,
+      "name": "Question 68",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"k",
+          "id": 135,
+          "questionId": 1010,
+          "name": "Je ne me laisse pas faire",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"n",
+          "id": 136,
+          "questionId": 1010,
+          "name": "Je m'acharne sur un problème jusqu'à ce qu'il soit résolu",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1069,
+      "name": "Question 69",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"f",
+          "id": 137,
+          "questionId": 1010,
+          "name": "J'aime plaire aux gens que j'admire",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"a",
+          "id": 138,
+          "questionId": 1010,
+          "name": "Je veux réussir",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1070,
+      "name": "Question 70",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"w",
+          "id": 139,
+          "questionId": 1010,
+          "name": "J'aime que quelqu'un d'autre prenne les décisions pour le groupe",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"p",
+          "id": 140,
+          "questionId": 1010,
+          "name": "J'aime prendre les décisions pour le groupe",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1071,
+      "name": "Question 71",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"g",
+          "id": 141,
+          "questionId": 1010,
+          "name": "Je fais toujours de mon mieux",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"i",
+          "id": 142,
+          "questionId": 1010,
+          "name": "Je prends des décisions rapidement",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1072,
+      "name": "Question 72",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"l",
+          "id": 143,
+          "questionId": 1010,
+          "name": "Ordinairement, le groupe fait ce que je veux",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"t",
+          "id": 144,
+          "questionId": 1010,
+          "name": "J'ai l'habitude de me dépêcher",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1073,
+      "name": "Question 73",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"i",
+          "id": 145,
+          "questionId": 1010,
+          "name": "Je me sens souvent fatigué",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"v",
+          "id": 146,
+          "questionId": 1010,
+          "name": "Je suis lent à prendre des décisions",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1074,
+      "name": "Question 74",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"t",
+          "id": 147,
+          "questionId": 1010,
+          "name": "Je travaille à un rythme soutenu",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"s",
+          "id": 148,
+          "questionId": 1010,
+          "name": "Je me fais des amis facilement",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1075,
+      "name": "Question 75",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"v",
+          "id": 149,
+          "questionId": 1010,
+          "name": "D'habitude, je suis plein d'allant et de vitalité",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"r",
+          "id": 150,
+          "questionId": 1010,
+          "name": "Je passe beaucoup de temps à réflèchir",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1076,
+      "name": "Question 76",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"s",
+          "id": 151,
+          "questionId": 1010,
+          "name": "Je suis très aimable avec les gens",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"d",
+          "id": 152,
+          "questionId": 1010,
+          "name": "J'aime un travail qui demande de la précision",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "echelle":"a",
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1077,
+      "name": "Question 77",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"r",
+          "id": 153,
+          "questionId": 1010,
+          "name": "J'aime faire des projets",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"c",
+          "id": 154,
+          "questionId": 1010,
+          "name": "Je mets chaque chose à sa place",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1078,
+      "name": "Question 78",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"d",
+          "id": 155,
+          "questionId": 1010,
+          "name": "J'aime faire un travail minutieux",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"e",
+          "id": 156,
+          "questionId": 1010,
+          "name": "Je suis lent à me mettre en colère",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1079,
+      "name": "Question 79",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"f",
+          "id": 157,
+          "questionId": 1010,
+          "name": "J'aime prendre pour modèle les gens que j'admire",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"n",
+          "id": 158,
+          "questionId": 1010,
+          "name": "J'achève toujours le travail que j'ai commencé",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1080,
+      "name": "Question 80",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"w",
+          "id": 159,
+          "questionId": 1010,
+          "name": "J'aime recevoir des directives claires",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"a",
+          "id": 160,
+          "questionId": 1010,
+          "name": "Je suis exigeant",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1081,
+      "name": "Question 81",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"g",
+          "id": 161,
+          "questionId": 1010,
+          "name": "Je travaille beaucoup",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"l",
+          "id": 162,
+          "questionId": 1010,
+          "name": "Je suis un bon leader",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1082,
+      "name": "Question 82",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"l",
+          "id": 163,
+          "questionId": 1010,
+          "name": "J'obtiens des autres qu'ils travaillent dur",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"i",
+          "id": 164,
+          "questionId": 1010,
+          "name": "Je suis insouciant",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1083,
+      "name": "Question 83",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"i",
+          "id": 165,
+          "questionId": 1010,
+          "name": "Je prends des décisions rapidement",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"t",
+          "id": 166,
+          "questionId": 1010,
+          "name": "Je parle vite",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1084,
+      "name": "Question 84",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"t",
+          "id": 167,
+          "questionId": 1010,
+          "name": "Ordinairement, je travaille vite",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"v",
+          "id": 168,
+          "questionId": 1010,
+          "name": "Je fais de l'exercice régulièrement",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1085,
+      "name": "Question 85",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"v",
+          "id": 169,
+          "questionId": 1010,
+          "name": "Je n'aime pas rencontrer des gens",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"s",
+          "id": 170,
+          "questionId": 1010,
+          "name": "Je me fatigue vite",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1086,
+      "name": "Question 86",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"s",
+          "id": 171,
+          "questionId": 1010,
+          "name": "Je me fais beaucoup d'amis",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"r",
+          "id": 172,
+          "questionId": 1010,
+          "name": "Je passe beaucoup de temps à réfléchir",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1087,
+      "name": "Question 87",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"r",
+          "id": 173,
+          "questionId": 1010,
+          "name": "J'aime bâtir des théories",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"d",
+          "id": 174,
+          "questionId": 1010,
+          "name": "Je m'intéresse aux détails",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1088,
+      "name": "Question 88",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"d",
+          "id": 175,
+          "questionId": 1010,
+          "name": "J'aime travailler au niveau des détails",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"c",
+          "id": 176,
+          "questionId": 1010,
+          "name": "J'aime organiser mon travail",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1089,
+      "name": "Question 89",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"c",
+          "id": 177,
+          "questionId": 1010,
+          "name": "Je mets les choses à leur place",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"e",
+          "id": 178,
+          "questionId": 1010,
+          "name": "Je sais garder mon sang-froid",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    },
+    {
+      "id": 1090,
+      "name": "Question 90",
+      "questionTypeId": 1,
+      "options": [
+        {
+          "position":"h",
+          "echelle":"w",
+          "id": 179,
+          "questionId": 1010,
+          "name": "J'aime qu'on me dise ce que j'ai à faire",
+          "isAnswer": true
+        },
+        {
+          "position":"o",
+          "echelle":"n",
+          "id": 180,
+          "questionId": 1010,
+          "name": "Il faut que je finisse ce que je commence",
+          "isAnswer": false
+        }
+      ],
+      "questionType": {
+        "id": 1,
+        "name": "Multiple Choice",
+        "isActive": true
+      }
+
+    }
+  ]
+}
